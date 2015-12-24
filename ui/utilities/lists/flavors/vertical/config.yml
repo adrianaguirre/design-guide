@@ -1,0 +1,5 @@
+status: 'dev-ready'
+classBase: 'has-block-links'
+showFormFactors:
+  - small
+  - large

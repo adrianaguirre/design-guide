@@ -1,0 +1,9 @@
+{
+  "name": "lifeLock-design-guide",
+  "description": "LifeLock Design Guide",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:salesforce-ux/design-guide.git"
+  },
+  "author": "LifeLock"
+}

@@ -1,0 +1,6 @@
+status: 'dev-ready'
+flavors:
+  - default
+  - overflow
+  - scoped
+  - sales-path

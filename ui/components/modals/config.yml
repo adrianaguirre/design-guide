@@ -1,0 +1,10 @@
+status: 'prototype'
+classBase: 'modal'
+flavors:
+  - base
+  - taglines
+  - large
+  - directional
+dependencies:
+  - core/icons
+  - components/buttons

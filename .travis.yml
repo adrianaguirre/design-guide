@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "0.12"
+before_install:
+  - npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN
+install:
+  - npm install
+script:
+  - scripts/travis/script.sh
+cache:
+  directories:
+    - node_modules

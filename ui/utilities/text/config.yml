@@ -1,0 +1,13 @@
+status: 'ga'
+flavors:
+  - base
+  - body-small
+  - heading-large
+  - heading-medium
+  - heading-small
+  - heading-label
+  - alignment
+  - longform
+  - section-title
+  - section-title-dividers
+  - faux-links
